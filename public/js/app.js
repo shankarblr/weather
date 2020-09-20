@@ -4,10 +4,6 @@ console.log("Clientside JS loaded")
 //     response.json().then((data) => console.log(data))
 // });
 
-
-
-
-
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 
